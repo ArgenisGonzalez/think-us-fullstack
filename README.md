@@ -1,6 +1,6 @@
 # Sistema de Gestión de Empleados y Solicitudes THINK-US
 
-API REST desarrollada con Node.js y PostgreSQL que permite gestionar empleados y sus solicitudes, con autenticación JWT y autorización basada en roles.
+Proyecto FullStack desarrollado con React, Node.js y PostgreSQL que permite gestionar empleados y sus solicitudes, con autenticación JWT y autorización basada en roles.
 
 ## Tabla de Contenidos
 
